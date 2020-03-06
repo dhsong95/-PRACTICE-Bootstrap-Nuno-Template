@@ -71,6 +71,8 @@ body {
     font-size: 1.1rem;
 }
 /*--- End Landing Page ---*/
+
+/*--- Start Course Section ---*/
 .narrow {
     width: 75%;
     margin: 1.5rem auto;
@@ -94,9 +96,38 @@ body {
     border-color: #189582;
     background-color: #189582;
 }
-/*--- Start Course Section ---*/
-
 /*--- End Course Section ---*/
+
+/*--- Start Features Section ---*/
+.jumbotron {
+    border-radius: 0;
+    margin-bottom: 0;
+    padding: 2rem 0 3.5rem;
+}
+h3.heading {
+    font-size: 1.9rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 1.9rem;
+}
+.heading-underline {
+    width: 3rem;
+    height: .2rem;
+    margin: 0 auto 2rem;
+    background-color: #1ebba3;
+}
+.feature svg.svg-inline--fa {
+    color: #1ebba3;
+}
+.feature h3 {
+    text-transform: uppercase;
+    font-size: 1.3rem;
+    padding-bottom: .4rem;
+}
+.feature p {
+    font-size: 1.1rem;
+}
+/*--- End Features Section ---*/
 
 /*============ BOOTSTRAP BREAK POINTS:
 
