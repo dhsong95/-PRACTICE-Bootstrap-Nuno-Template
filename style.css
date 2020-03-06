@@ -129,6 +129,28 @@ h3.heading {
 }
 /*--- End Features Section ---*/
 
+/*--- Start Resources Section ---*/
+.dark {
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+    padding: 7rem 2rem;
+}
+.fixed {
+    background-image: url(img/apple.png);
+    z-index: -1;
+}
+.resource svg.svg-inline--fa {
+    color: #1ebba3;
+}
+.resource h3 {
+    text-transform: uppercase;
+    margin-bottom: 2rem;
+}
+.resource p {
+    margin-top: 1.5rem;
+}
+/*--- End Resources Section ---*/
+
 /*============ BOOTSTRAP BREAK POINTS:
 
 Extra small (xs) devices (portrait phones, less than 576px)
