@@ -71,7 +71,32 @@ body {
     font-size: 1.1rem;
 }
 /*--- End Landing Page ---*/
+.narrow {
+    width: 75%;
+    margin: 1.5rem auto;
+    padding-top: 2rem;
+}
+.narrow h1 {
+    font-size: 2.4rem;
+}
+.btn-secondary {
+    border-width: medium;
+    border-radius: 0;
+    border-color: #1ebba3;
+    background-color: #1ebba3;
+    padding: .6rem 1.2rem;
+    margin: 1rem;
+    color: white;
+    text-transform: uppercase;
+    font-size: 1.2rem;
+}
+.btn-secondary:hover {
+    border-color: #189582;
+    background-color: #189582;
+}
+/*--- Start Course Section ---*/
 
+/*--- End Course Section ---*/
 
 /*============ BOOTSTRAP BREAK POINTS:
 
